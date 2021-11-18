@@ -1,6 +1,5 @@
 import React from 'react'
 import styled from 'styled-components';
-import SchoolIcon from '@material-ui/icons/School';
 import Education from '../Components/Education/Education';
 
 function EducationPage() {

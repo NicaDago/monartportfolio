@@ -32,13 +32,13 @@ function Sidebar() {
                 </label>
                 <ul class="socialmedia">
                     <li>
-                        <a href="https://www.linkedin.com/in/monica-d-agosto-aa340813/" aria-label="LinkedIn profile" target="blank" class="socialmedialist" Title="LinkedIn"><i class="fab fa-linkedin" aria-hidden="true" ></i></a>
+                        <a href="https://www.linkedin.com/in/monica-d-agosto-aa340813/" aria-label="LinkedIn profile" target="blank" class="socialmedialist" Title="LinkedIn"><i class="fab fa-linkedin" ></i></a>
                     </li>
                     <li>
-                        <a href="https://github.com/NicaDago" aria-label="GitHub profile" target="blank" class="socialmedialist" Title="GitHub"> <i class="fab fa-github" aria-hidden="true"></i></a>
+                        <a href="https://github.com/NicaDago" aria-label="GitHub profile" target="blank" class="socialmedialist" Title="GitHub"> <i class="fab fa-github" ></i></a>
                     </li>
                     <li>
-                        <a href="https://codepen.io/NicaDago" aria-label="CodePen profile" target="blank" class="socialmedialist" Title="CodePen"><i class="fab fa-codepen" aria-hidden="true"></i></a>
+                        <a href="https://codepen.io/NicaDago" aria-label="CodePen profile" target="blank" class="socialmedialist" Title="CodePen"><i class="fab fa-codepen" ></i></a>
                     </li>
                 </ul>
             </div>

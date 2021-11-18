@@ -14,7 +14,7 @@ function PortfolioItems({menuItem}) {
                                 <img src={item.image} alt="Portfolio Project"/>
                                 <ul>
                                     <li>
-                                        <a target='_blank' href={item.link1}>
+                                        <a target='_blank' rel="noreferrer" href={item.link1}>
                                             {item.link2}
                                         </a>
                                     </li>

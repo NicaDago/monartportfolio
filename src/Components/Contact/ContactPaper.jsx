@@ -15,25 +15,27 @@ function ContactPaper() {
                     </div>
                     <div className="email"><i class="fas fa-envelope-square"></i> monart.uk@gmail.com</div>
                 </div>
-            <ul class="strips" role="list">
-                <li class="contact" role="listitem">
+            {/* <ul class="strips" role="list"> */}
+            <ul class="strips">
+            {/* <li class="contact" role="listitem"> */}
+                <li class="contact">
                     <div class="link">
                         <i class="fab fa-linkedin" aria-hidden="true"></i>
-                            <a href="https://www.linkedin.com/in/monica-d-agosto-aa340813/" aria-label="LinkedIn profile" target="_blank">-@MonicaD</a>
+                            <a href="https://www.linkedin.com/in/monica-d-agosto-aa340813/" aria-label="LinkedIn profile" target="_blank" rel="noreferrer">-@MonicaD</a>
                     </div>
                 </li>
 
-                <li class="contact" role="listitem">
+                <li class="contact">
                     <div class="link">
                         <i class="fab fa-github" aria-hidden="true"></i>
-                            <a href="https://github.com/NicaDago" aria-label="GitHub profile" target="_blank">-@NicaDago</a>
+                            <a href="https://github.com/NicaDago" aria-label="GitHub profile" target="_blank" rel="noreferrer">-@NicaDago</a>
                     </div>
                 </li>
 
-                <li class="contact" role="listitem">
+                <li class="contact">
                     <div class="link">
                         <i class="fab fa-codepen" aria-hidden="true"></i>
-                            <a href="https://codepen.io/NicaDago" aria-label="CodePen profile" target="_blank">-@NicaDago</a>
+                            <a href="https://codepen.io/NicaDago" aria-label="CodePen profile" target="_blank" rel="noreferrer">-@NicaDago</a>
                     </div>
                 </li>
             </ul>
